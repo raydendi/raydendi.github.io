@@ -2,7 +2,7 @@ title: Pseudo Jungians # name of the site
 author: Raidendy # name of site's author
 email: raydendip@gmail.com # email of site's author
 url:  # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: / # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 permalink: /:slug.html
