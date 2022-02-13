@@ -2,7 +2,9 @@
 layout: post
 category: technology
 ---
-# Kecerdasan buatan dalam sistem hukum? Indonesia?
+
+
+## Hukum yang tertinggal
 
 Sejauh perkembangan teknologi di abad ini, mulai dari bidang ekonomi, sosial, biologi, fisika, kedokteran, dan antariksa serta bidang keilmuwan lainnya. Namun terdapat bidang yang masih belum beranjak ketahap berikutnya dan kerap kali _old fashioned_ yakni salah satunya adalah bidang __hukum__. Pertanyaannya mengapa demikian?
 
