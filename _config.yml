@@ -1,4 +1,4 @@
-title: no style, please! # name of the site
+title: Pseudo Jungians # name of the site
 author: Raidendy # name of site's author
 email: raydendip@gmail.com # email of site's author
 url:  # root address of the site
@@ -14,8 +14,8 @@ theme: no-style-please # if you are using GitHub Pages, change it to remote_them
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  back_home_text: "Back" # customize text for homepage link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
 sass:
