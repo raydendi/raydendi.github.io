@@ -12,7 +12,7 @@ entries:
 
   - title: projek
     entries:
-      - title: putusan-watermark-remover
+      - title: putusan-watermark-remover 
         url: https://github.com/raydendi/putusan-watermark-remover 
       - title: peraturan-api 
         url: https://github.com/raydendi/peraturan-api
@@ -20,7 +20,10 @@ entries:
         url: https://github.com/raydendi/kamus-hukum
       - title: kamus-hukum 
         url: https://github.com/raydendi/oneidea-pdf
-
+  - title: tentang
+    entries: 
+      - title: _
+        url: about
   - title: kontak
     entries:
       - title: email
