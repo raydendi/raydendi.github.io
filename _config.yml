@@ -1,10 +1,10 @@
-title: Pseudo Jungian | R # name of the site
+title: Ray's blog # name of the site
 author: raidendy # name of site's author
-email: raydendip@gmail.com # email of site's author
+email:  # email of site's author
 url:  # root address of the site
 baseurl: / # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-   dalam proses konstruksi, selama waktu yang tidak ditentukan 
+   a personal blog
 permalink: /:slug.html
 
 favicon: "rai.png" # name+extension of favicon (which must be put on the root folder)
@@ -14,7 +14,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "kembali" # customize text for homepage link in post layout
+  back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description in home page
 
