@@ -3,10 +3,6 @@ layout: post
 category: psychology 
 ---
 
-# Why I Daydreaming A Lot Without Realizing It.
-
-Date: 9 August 2025
-
 Yes, the title is so long. But I want to talk regarding my tendency to have a personality toward Introvert and Intuition, because recently I have been discovered myself, that I have daydreams a lot, and I think this is related to the these function of my personality.
 
 I have tested my personality from MBTI website such as 16personalities.com and paid personality test like Big Five of Traits from Jordan Peterson personality test website on understandmyself.com, also my DNA Test report. All of these tests and some repeated test that I took year after year, consistently tell that I'm an INTJ, which stands for Introvert, Intuition, Thinking, and Judging (Well sort of focused on Introvert and lend toward Intuition capability). This also aligned that I have specific trait in my genes that will make me become an Introvert and having intuition capability like 'Introversion', 'Insighfulness', 'Creativity', and  'Trading' traits that says above average while other traits such as 'Imagination' labelled as Outstanding. 
