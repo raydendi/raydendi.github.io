@@ -5,8 +5,7 @@ category: psychology
 
 # Why I Daydreaming A Lot Without Realizing It.
 
-9 August 2025
-
+Date: 9 August 2025
 
 Yes, the title is so long. But I want to talk regarding my tendency to have a personality toward Introvert and Intuition, because recently I have been discovered myself, that I have daydreams a lot, and I think this is related to the these function of my personality.
 

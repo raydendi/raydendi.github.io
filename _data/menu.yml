@@ -3,14 +3,14 @@
 
 entries:
 
-  - title: 
+  - title: blog
     post_list:
-      limit: 10
+      limit: 5
       show_more: true
-      show_more_text: next
+      show_more_text: next>
       show_more_url: archive.html
 
-  - title: my project 
+  - title: project 
     entries:
       - title: Rechtly | How I Learned to stop Worrying and Love the Law
         url: https://rechtly.com
