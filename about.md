@@ -1,8 +1,8 @@
 ---
 layout: page
-title: tentang
+title: about 
 ---
 
-_Personal Blog_ ini bermaksud menunjukan eksistensi di antara keberadaan manusia dan menegaskan pada semesta, bahwa sebuah organisme telah hidup meskipun kebergunaannya pada alam dipertanyakan... 
+This personal blog is meant to assert its existence among human beings and to declare to the universe that an organism has lived, even if its usefulness to nature is in question.
 
-Apapun itu, Semoga makna dipertemukan.
+Whatever this may be, may its meaning be found.

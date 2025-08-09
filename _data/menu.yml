@@ -3,32 +3,22 @@
 
 entries:
 
-  - title: buah pikir
+  - title: 
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
-      show_more_text: lebih lanjut...
+      show_more_text: next
       show_more_url: archive.html
 
-  - title: projek
+  - title: my project 
     entries:
-      - title: putusan-watermark-remover 
-        url: https://github.com/raydendi/putusan-watermark-remover 
-      - title: peraturan-api 
-        url: https://github.com/raydendi/peraturan-api
-      - title: kamus-hukum 
-        url: https://github.com/raydendi/kamus-hukum
-      - title: oneidea-pdf
-        url: https://github.com/raydendi/oneidea-pdf
-  - title: tentang
+      - title: Rechtly | How I Learned to stop Worrying and Love the Law
+        url: https://rechtly.com
+  - title: about 
     entries: 
       - title: _
         url: about
-  - title: kontak
+  - title: contact
     entries:
-      - title: email
-        url: mailto:raydendip@gmail.com
       - title: instagram
         url: https://www.instagram.com/raydnp/
-      - title: github repo
-        url: https://github.com/raydendi
