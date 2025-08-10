@@ -67,6 +67,6 @@ This new perspective will strengthen the dominant function of myself and enrich 
 
 you should watch this if you are recongnize as a Ni: 
 
-https://www.youtube.com/watch?v=DLANmpd-YFc
 https://www.youtube.com/watch?v=i8o30eArkQA
+https://www.youtube.com/watch?v=DLANmpd-YFc
 https://www.youtube.com/watch?v=DmqFbgKWoao
