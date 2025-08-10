@@ -1,10 +1,10 @@
 title: Ray's blog # name of the site
-author: raidendy # name of site's author
+author: ray # name of site's author
 email:  # email of site's author
 url:  # root address of the site
 baseurl: / # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-   my personal blog
+   my inner findings
 permalink: /:slug.html
 future: true
 

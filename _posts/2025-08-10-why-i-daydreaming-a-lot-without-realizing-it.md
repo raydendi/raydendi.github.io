@@ -3,7 +3,7 @@ layout: post
 category: psychology 
 ---
 
-I want to discuss my tendency toward introversion and intuition, and how these traits influence the way my mind works. Recently, I have discovered that I daydream a lot, and I think this is related to these aspects of my personality.
+I want to discuss my tendency toward introversion and intuition, and how these traits influence the way my mind works. Recently, after 25 years of living, I have discovered that I daydream a lot, and I think this is related to these aspects of my personality.
 
 I have taken personality tests from MBTI websites such as 16personalities.com, paid tests like the Big Five Traits from Jordan Peterson's understandmyself.com, and even a DNA test. All of these tests, including repeated ones over the years, consistently indicate that I'm an INTJ, which stands for Introvert, Intuition, Thinking, and Judging (with a particular focus on introversion and intuition). This also aligns with specific traits in my genes that suggest I am introverted and have strong intuition, such as 'Introversion', 'Insightfulness', 'Creativity', and 'Trading', which are rated above average, while other traits like 'Imagination' are labeled as Outstanding.
 

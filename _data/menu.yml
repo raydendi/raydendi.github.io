@@ -3,14 +3,14 @@
 
 entries:
 
-  - title: blog
+  - title: posts 
     post_list:
       limit: 10
       show_more: true
       show_more_text: next>
       show_more_url: archive.html
 
-  - title: project 
+  - title: projects
     entries:
       - title: Rechtly | How I Learned to stop Worrying and Love the Law
         url: https://rechtly.com
@@ -22,3 +22,5 @@ entries:
     entries:
       - title: instagram
         url: https://www.instagram.com/raydnp/
+      - title: linkedin
+        url: https://www.linkedin.com/in/raidendy/
