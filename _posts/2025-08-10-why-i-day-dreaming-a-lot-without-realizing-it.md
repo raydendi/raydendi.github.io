@@ -66,5 +66,7 @@ This new perspective will strengthen the dominant function of myself and enrich 
 I would recommend watching these if you are recognized as a Ni:
 
 [Introvert Intuition (Ni) explanation](https://www.youtube.com/watch?v=DLANmpd-YFc)
+
 [Carl Jung Explained what is Introverted Intuition (Ni) and Commentary](https://www.youtube.com/watch?v=i8o30eArkQA)
+
 [Kim Jung Gi explains how to draw from memory](https://www.youtube.com/watch?v=DmqFbgKWoao)
